@@ -23,3 +23,17 @@ In the meantime, we can focus on more pressing issues like climate change and re
 #
 
 [Aerospace Spacecraft](https://github.com/sourceduty/Aerospace_Spacecraft)
+<br>
+[Astronaut Software](https://chatgpt.com/g/g-F89U0wJa0-astronaut-software)
+<br>
+[Astrobiology Modelling](https://chatgpt.com/g/g-675ea3ac6b588191b85fb518b3e7a640-astrobiology-modelling)
+<br>
+[Station in Space](https://chatgpt.com/g/g-RhQ7LG2GQ-station-in-space)
+<br>
+[Astrochem](https://chatgpt.com/g/g-67e85194e1ec8191ae8b6371778e78c8-astrochem)
+<br>
+[ISS Module](https://chatgpt.com/g/g-6776da708084819182e560df751a84fa-iss-module)
+<br>
+[Assisted ISS](https://chatgpt.com/g/g-67aff86c79a88191b6d03e496c9e3080-assisted-iss)
+<br>
+[Mars](https://chatgpt.com/g/g-aLfw9aF2J-mars)
