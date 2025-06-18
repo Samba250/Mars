@@ -37,3 +37,5 @@ Alex: _10 billion years._
 [ISS Module](https://chatgpt.com/g/g-6776da708084819182e560df751a84fa-iss-module)
 <br>
 [Assisted ISS](https://chatgpt.com/g/g-67aff86c79a88191b6d03e496c9e3080-assisted-iss)
+<br>
+[Earth 2](https://github.com/sourceduty/Earth_2)
