@@ -6,7 +6,7 @@ Plans for Mars are ambitious and multifaceted, spearheaded by both governmental 
 
 #
 
-![Red Rovers](https://github.com/user-attachments/assets/5e3a2d54-c2ef-40be-8be5-6ba52b1270f4)
+![Martian Laser](https://github.com/user-attachments/assets/b5df8b7a-26e9-4ddb-9263-72ca197cafc3)
 
 Current property laws for man-made equipment on Mars are primarily governed by the principles of the Outer Space Treaty of 1967, ensuring that ownership remains with the entity that deployed the equipment, while preventing national appropriation of Martian territory. The Moon Agreement of 1979 allows for the ownership of man-made objects (e.g., rovers, landers) to remain with the entity that launched them.
 
