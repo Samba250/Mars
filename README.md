@@ -20,6 +20,8 @@ Earth's rotation is slowing down at a rate of 1.7 milliseconds per century. This
 
 In the meantime, we can focus on more pressing issues like climate change and resource depletion here at home. Perhaps one day in the distant future humans will colonize Mars as well, but for now it remains an ambitious goal with many challenges ahead of us - not least among them is figuring out how to keep our own planet habitable while we work towards expanding humanity's reach into space. The red planet has a rotation period of about 24.6 hours and its day length increases by around 0.1 seconds per century, so it will take much longer than Earth for Mars to experience any significant changes in its rotational speed that would impact human colonists there (if they ever arrive). So while we wait patiently on this pale blue dot called home, let us hope that future generations are able to overcome the obstacles and make their dreams of reaching out among the stars a reality.
 
+Alex: _10 billion years._
+
 #
 
 [Aerospace Spacecraft](https://github.com/sourceduty/Aerospace_Spacecraft)
